@@ -1,1 +1,21 @@
-inclure la tâche d'Alberto
+INSTALLATION :
+  - Installation et configuration du raspberry
+  - Installation et configuration de la gamelle rfid
+
+MISE EN OEUVRE :
+  - Relier l'ensemble à la base de données pour déterminer la fréquence des repas et le poids ingéré par l'animal
+
+CONFIGURATION :
+  - Configurer les seuils des différents paramètres
+
+REALISATION :
+  - Coder le module logiciel permettant de fixer des seuils pour le nombre de repas
+  - Coder le module logiciel permettant de calculer la fréquence des repas 
+  - Coder le module logiciel permettant d'inscrire les données en bas de données
+
+DOCUMENTATION :
+  - Adapter la plannification proposée
+  - Raffiner les diagrammes SysML liés à la partie du système prise en charge par l'étudiant
+  - Documentation de la gamelle rfid
+  - Code commenté
+  - Rédiger les documents du projet, et documenter la prise en main et la maintenance du système pour le client
