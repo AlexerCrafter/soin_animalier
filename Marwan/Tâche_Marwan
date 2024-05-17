@@ -1,0 +1,21 @@
+INSTALLATION :
+  - Installation de la connexion avec le serveur
+
+MISE EN OEUVRE :
+  - Récupération des informations de la base de données
+  - Transférer les données vers la base de données
+
+CONFIGURATION :
+  - Etalonnage et validation des données fournies par la balance
+
+REALISATION :
+  - Coder l'application mobile permettant de visualiser les informations concernant un animal sur le mobile, en scannant un QRCode
+  - Coder l'application pour permettre au vétérinaire de renseigner le suivi animal
+
+DOCUMENTATION :
+  - Adapter la planification proposée
+  - Raffiner les diagrammes SysML liés à la partie prise en charge par l'étudiant
+  - Documentation de la balance
+  - Android
+  - Code commenté
+  - Rédiger les documents du projet, et documenter la prise en main et la maintenance du système pour le client
