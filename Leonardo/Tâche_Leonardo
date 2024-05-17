@@ -1,0 +1,26 @@
+INSTALLATION :
+  - Installation du serveur sous Linux
+  - Installation et configuration de la base de données
+  - Installation et configuration Serveur Web avec base de données
+  - Installation de la caméra
+
+CONFIGURATION :
+  - Configuration de la base de données pour une récupération des informations de poids, de fréquence des repas, de mémoire des seuils de repas
+
+REALISATON :
+  - Insérer les paramètres transmis dans la base de données
+  - Interface Web de gestion du suivi de santé animal :
+    • S'authentifier
+    • Créer la fiche animal avec une prise de photo
+    • Réglage des seuils
+    • Visualisation des données, graphiques des mesures
+    • Mettre en place des alertes pour les traitements
+  - Génération d'un QRCode pour chaque fiche animal
+
+DOCUMENTATION :
+  - Adapter la planification proposée
+  - Raffiner  les diagrammes sysml liés à la partie du système prise en charge par l'étudiant 
+  - Documentation des capteurs, principes de fonctionnement, protocoles de communication
+  - Documentation Arduino : caractéristiques technologiques
+  - Code commenté
+  - Rédiger les documents du projet, et documenter la prise en main et la maintenance  du système pour le client
