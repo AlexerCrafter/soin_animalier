@@ -1,0 +1,22 @@
+INSTALLATION :
+  - Installation de la balance de pesée animal
+
+MISE EN OEUVRE :
+  - Balance de pesée animal
+  - Transférer les données vers la base
+
+CONFIGURATION :
+  - Etalonnage et validation des données fournies par la balance
+
+REALISATION :
+  - Coder le module logiciel "CaptBalance" sous forme de service qui collecte les données en provenance de la balance Bluetooth
+  - Coder le module logiciel "SauvPoids" :
+    • Application C++ sous forme de service qui collecte les données en provenance de la balance et les insèrent dans la base de données
+
+DOCUMENTATION :
+  - Adapter la planification proposée
+  - Raffiner les diagrammes SysML liés à la partie prise en charge par l'étudiant
+  - Documentation de la balance
+  - Applications C++
+  - Code commenté
+  - Rédiger les documents du projet, et documenter la prise en main et la maintenance du système pour le client
