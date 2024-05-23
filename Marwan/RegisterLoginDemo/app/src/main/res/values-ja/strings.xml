@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RegisterLoginDemo</string>
+    <string name="nav_header_desc">ナビゲーションヘッダー</string>
+    <string name="menu_home">家</string>
+    <string name="menu_gallery">ギャラリー</string>
+    <string name="a_propos_de">について</string>
+    <string name="param_tres">設定</string>
+    <string name="deconnexion">切断する</string>
+    <string name="notifications">通知</string>
+    <string name="arr_ter_l_application">アプリを停止する</string>
+    <string name="langue">言語</string>
+    <string name="taille_du_texte">文字サイズ</string>
+    <string name="s_curit_et_confidentialit">セキュリティとプライバシー</string>
+    <string name="mode_sombre">ダークモード</string>
+    <string name="todo">TODO</string>
+    <string name="galerie">ギャラリー</string>
+    <string name="accueil">いらっしゃいませ</string>
+    <string name="a_propos">について</string>
+
+
+    <string name="soin_animaux">動物の世話</string>
+    <string name="menu">メニュー</string>
+
+    <string name="voir_la_fiche_animal">動物ファイルを参照してください</string>
+    <string name="nos_animaux_sont_importants_des_millions_d_animaux_sont_abandonn_es_chaque_ann_e_dans_le_monde_entier_les_chiffres_varie_en_fonction_de_facteurs_tels_que_la_population_humaine_les_politiques_de_contr_le_des_naissances_d_animaux_les_efforts_de_sensibilisation_et_de_pr_vention">私たちの動物は大切であり、世界中で毎年何百万もの動物が捨てられています。この数字は、人間の人口、動物の避妊政策、意識や予防の取り組みなどの要因によって異なります。</string>
+    <string name="param_tres_2">設定</string>
+
+    <string name="e">セキュリティとプライバシー</string>
+    <string name="t">あなたのプライバシーは私たちの最優先事項です。当社がお客様の個人データをどのように保護するかについて詳しくは、当社のプライバシー ポリシーをご覧ください。</string>
+    <string name="taille">フォントサイズ</string>
+
+
+    <string-array name="languages_array">
+        <item>Français</item>
+        <item>Español</item>
+        <item>English</item>
+        <item>日本語</item>
+    </string-array>
+
+</resources>

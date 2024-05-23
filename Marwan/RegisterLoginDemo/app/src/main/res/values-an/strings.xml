@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">RegisterLoginDemo</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="a_propos_de">About</string>
+    <string name="param_tres">Settings</string>
+    <string name="deconnexion">Disconnect</string>
+    <string name="notifications">Notifications</string>
+    <string name="arr_ter_l_application">Stop the app</string>
+    <string name="langue">Language</string>
+    <string name="taille_du_texte">Text size</string>
+    <string name="s_curit_et_confidentialit">Security and Privacy</string>
+    <string name="mode_sombre">Dark mode</string>
+    <string name="todo">TODO</string>
+    <string name="galerie">Gallery</string>
+    <string name="accueil">Home</string>
+    <string name="a_propos">About</string>
+
+    <string name="soin_animaux">Animal Care</string>
+    <string name="menu">Menu</string>
+    <string name="voir_la_fiche_animal">See the animal sheet</string>
+    <string name="nos_animaux_sont_importants_des_millions_d_animaux_sont_abandonn_es_chaque_ann_e_dans_le_monde_entier_les_chiffres_varie_en_fonction_de_facteurs_tels_que_la_population_humaine_les_politiques_de_contr_le_des_naissances_d_animaux_les_efforts_de_sensibilisation_et_de_pr_vention">Our animals are important, millions of animals are abandoned every year around the world. The numbers vary depending on factors such as human population, animal birth control policies, awareness and prevention efforts.</string>
+    <string name="param_tres_2">Settings</string>
+    <string name="e">Security and Privacy</string>
+    <string name="t">Your privacy is our priority. Visit our privacy policy to learn more about how we protect your personal data.</string>
+    <string name="taille">Font size</string>
+
+
+    <string-array name="languages_array">
+        <item>Français</item>
+        <item>Español</item>
+        <item>English</item>
+        <item>日本語</item>
+    </string-array>
+
+</resources>

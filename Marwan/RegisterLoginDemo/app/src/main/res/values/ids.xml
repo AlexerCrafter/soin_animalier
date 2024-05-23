@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nightModeSwitch" type="id" />
+    <item name="notificationSwitch" type="id" />
+    <item name="privateAccountSwitch" type="id" />
+    <item name="switcher" type="id" />
+    <item name="back_btn" type="id" />
+    <item name="blackButton" type="id" />
+
+</resources>

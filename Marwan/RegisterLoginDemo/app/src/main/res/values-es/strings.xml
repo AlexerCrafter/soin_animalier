@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">RegisterLoginDemo</string>
+    <string name="nav_header_desc">Encabezado de navegación</string>
+
+
+    <string name="menu_home">Hogar</string>
+    <string name="menu_gallery">Galería</string>
+    <string name="a_propos_de">A proposito</string>
+    <string name="param_tres">Configuraciones</string>
+    <string name="deconnexion">Desconectar</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="arr_ter_l_application">Detener la aplicación</string>
+    <string name="langue">Lengua</string>
+    <string name="taille_du_texte">Tamano del texto</string>
+    <string name="s_curit_et_confidentialit">Seguridad y privacidad</string>
+    <string name="mode_sombre">Modo oscuro</string>
+    <string name="todo">TODO</string>
+    <string name="galerie">Galería</string>
+    <string name="accueil">Hogar</string>
+    <string name="a_propos">A proposito</string>
+
+
+    <string name="soin_animaux">Cuidado animal</string>
+    <string name="menu">Menú</string>
+    <string name="voir_la_fiche_animal">Ver la ficha de animales</string>
+    <string name="nos_animaux_sont_importants_des_millions_d_animaux_sont_abandonn_es_chaque_ann_e_dans_le_monde_entier_les_chiffres_varie_en_fonction_de_facteurs_tels_que_la_population_humaine_les_politiques_de_contr_le_des_naissances_d_animaux_les_efforts_de_sensibilisation_et_de_pr_vention">Nuestros animales son importantes, millones de animales son abandonados cada año en todo el mundo. Las cifras varían dependiendo de factores como la población humana, las políticas de control de la natalidad animal, la concientización y los esfuerzos de prevención.</string>
+    <string name="param_tres_2">Configuraciones</string>
+    <string name="e">Seguridad y privacidad</string>
+    <string name="t">Tu privacidad es nuestra prioridad. Visite nuestra política de privacidad para obtener más información sobre cómo protegemos sus datos personales.</string>
+    <string name="taille">Tamaño de fuente</string>
+
+    <string-array name="languages_array">
+        <item>Français</item>
+        <item>Español</item>
+        <item>English</item>
+        <item>日本語</item>
+    </string-array>
+</resources>
