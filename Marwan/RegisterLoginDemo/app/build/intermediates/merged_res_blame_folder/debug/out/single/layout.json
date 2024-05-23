@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-mergeDebugResources-44:\\layout\\content_accueil.xml",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\content_accueil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-mergeDebugResources-44:\\layout\\app_bar_accueil.xml",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\app_bar_accueil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-mergeDebugResources-44:\\layout\\activity_langue.xml",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\activity_langue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-mergeDebugResources-44:\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-mergeDebugResources-44:\\layout\\nav_header_accueil.xml",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\nav_header_accueil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-mergeDebugResources-44:\\layout\\activity_security_privacy.xml",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\activity_security_privacy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-mergeDebugResources-44:\\layout\\register.xml",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-mergeDebugResources-44:\\layout\\activity_bienvenue.xml",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\activity_bienvenue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-mergeDebugResources-44:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-mergeDebugResources-44:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-mergeDebugResources-44:\\layout\\activity_accueil.xml",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\activity_accueil.xml"
+    },
+    {
+        "merged": "com.example.registerlogindemo.app-mergeDebugResources-44:/layout/activity_settings_page.xml",
+        "source": "com.example.registerlogindemo.app-main-47:/layout/activity_settings_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-mergeDebugResources-44:\\layout\\activity_taille.xml",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\activity_taille.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-mergeDebugResources-44:\\layout\\activity_settings_page.xml",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\activity_settings_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-mergeDebugResources-44:\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\fragment_slideshow.xml"
+    }
+]

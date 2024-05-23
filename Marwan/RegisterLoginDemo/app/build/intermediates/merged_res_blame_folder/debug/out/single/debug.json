@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\layout_activity_settings_page.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\activity_settings_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\menu_accueil.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\menu\\accueil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\drawable_right_arrow_icon.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\drawable\\right_arrow_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\drawable_back_btn.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\drawable\\back_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\drawable_baseline_dark_mode_24.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\drawable\\baseline_dark_mode_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\drawable_round_back_security.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\drawable\\round_back_security.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\drawable_propos.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\drawable\\propos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\layout_activity_taille.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\activity_taille.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\layout_activity_security_privacy.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\activity_security_privacy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\layout_activity_langue.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\activity_langue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\layout_app_bar_accueil.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\app_bar_accueil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\layout_activity_bienvenue.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\activity_bienvenue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\layout_nav_header_accueil.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\nav_header_accueil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\drawable_round_back_notifications.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\drawable\\round_back_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\layout_content_accueil.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\content_accueil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\drawable_round_back_whille10_20.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\drawable\\round_back_whille10_20.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.registerlogindemo.app-merged_res-45:/layout_activity_settings_page.xml.flat",
+        "source": "com.example.registerlogindemo.app-main-47:/layout/activity_settings_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\layout_register.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\drawable_round_back_night_mode.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\drawable\\round_back_night_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\drawable_image.jpg.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\drawable\\image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\layout_activity_accueil.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\layout\\activity_accueil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\menu_activity_accueil_drawer.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\menu\\activity_accueil_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-merged_res-45:\\drawable_parametre.xml.flat",
+        "source": "C:\\Users\\Marwan\\.gradle\\gradle-8.1\\daemon\\8.2\\com.example.registerlogindemo.app-main-47:\\drawable\\parametre.xml"
+    }
+]
