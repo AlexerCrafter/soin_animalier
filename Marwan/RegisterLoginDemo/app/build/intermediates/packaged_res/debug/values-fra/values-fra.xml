@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="languages_array">
+        <item>Français</item>
+        <item>Español</item>
+        <item>English</item>
+        <item>日本語</item>
+    </string-array>
+    <string name="a_propos">A Propos</string>
+    <string name="accueil">Accueil</string>
+    <string name="app_name">RegisterLoginDemo</string>
+    <string name="arr_ter_l_application">Arrêter l\'application</string>
+    <string name="deconnexion">Deconnexion</string>
+    <string name="galerie">Galerie</string>
+    <string name="langue">Langue</string>
+    <string name="menu">Menu</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_home">Home</string>
+    <string name="mode_sombre">Mode sombre</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nos_animaux_sont_importants_des_millions_d_animaux_sont_abandonn_es_chaque_ann_e_dans_le_monde_entier_les_chiffres_varie_en_fonction_de_facteurs_tels_que_la_population_humaine_les_politiques_de_contr_le_des_naissances_d_animaux_les_efforts_de_sensibilisation_et_de_pr_vention">Nos animaux sont importants, des millions d\'animaux sont abandonnées chaque année dans le monde entier. Les chiffres varie en fonction de facteurs tels que la population humaine, les politiques de contrôle des naissances d\'animaux, les efforts de sensibilisation et de prévention.</string>
+    <string name="notifications">Notifications</string>
+    <string name="param_tres">Paramètres</string>
+    <string name="param_tres_2">Paramètres</string>
+    <string name="s_curit_et_confidentialit">Sécurité et confidentialité</string>
+    <string name="soin_animaux">Soin Animaux</string>
+    <string name="taille_du_texte">Taille du texte</string>
+    <string name="todo">TODO</string>
+    <string name="voir_la_fiche_animal">Voir la fiche animal</string>
+</resources>
