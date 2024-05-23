@@ -1,0 +1,3 @@
+com.example.registerlogindemo.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
