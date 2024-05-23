@@ -1,0 +1,254 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.registerlogindemo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <permission
+14-->[androidx.core:core:1.9.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\16088aea6844a21f0ae8707202a192eb\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+15        android:name="com.example.registerlogindemo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.9.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\16088aea6844a21f0ae8707202a192eb\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.9.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\16088aea6844a21f0ae8707202a192eb\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.example.registerlogindemo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.9.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\16088aea6844a21f0ae8707202a192eb\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.9.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\16088aea6844a21f0ae8707202a192eb\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+19
+20    <application
+20-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:8:5-80:19
+21        android:allowBackup="true"
+21-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:9:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.9.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\16088aea6844a21f0ae8707202a192eb\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+23        android:dataExtractionRules="@xml/data_extraction_rules"
+23-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:10:9-65
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:11:9-54
+27        android:icon="@mipmap/ic_launcher"
+27-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:12:9-43
+28        android:label="@string/app_name"
+28-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:13:9-41
+29        android:networkSecurityConfig="@xml/network_security_config"
+29-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:14:9-69
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:15:9-54
+31        android:supportsRtl="true"
+31-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:16:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.RegisterLoginDemo" >
+33-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:17:9-55
+34        <activity
+34-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:19:9-27:20
+35            android:name="com.example.registerlogindemo.Bienvenue"
+35-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:20:13-38
+36            android:exported="true" >
+36-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:21:13-36
+37            <intent-filter>
+37-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:22:13-26:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:23:17-69
+38-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:23:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:25:17-77
+40-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:25:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:28:9-36:20
+44            android:name="com.example.registerlogindemo.MainActivity"
+44-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:29:13-41
+45            android:exported="true" >
+45-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:30:13-36
+46            <intent-filter>
+46-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:22:13-26:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:23:17-69
+47-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:23:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:25:17-77
+49-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:25:27-74
+50            </intent-filter>
+51        </activity>
+52        <activity
+52-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:37:9-45:20
+53            android:name="com.example.registerlogindemo.Register"
+53-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:38:13-37
+54            android:exported="true" >
+54-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:39:13-36
+55            <intent-filter>
+55-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:22:13-26:29
+56                <action android:name="android.intent.action.MAIN" />
+56-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:23:17-69
+56-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:23:25-66
+57
+58                <category android:name="android.intent.category.LAUNCHER" />
+58-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:25:17-77
+58-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:25:27-74
+59            </intent-filter>
+60        </activity>
+61        <activity
+61-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:46:9-54:20
+62            android:name="com.example.registerlogindemo.AccueilActivity"
+62-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:47:13-44
+63            android:exported="true" >
+63-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:48:13-36
+64            <intent-filter>
+64-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:22:13-26:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:23:17-69
+65-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:23:25-66
+66
+67                <category android:name="android.intent.category.LAUNCHER" />
+67-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:25:17-77
+67-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:25:27-74
+68            </intent-filter>
+69        </activity>
+70        <activity
+70-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:55:9-63:20
+71            android:name="com.example.registerlogindemo.SettingsPage"
+71-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:56:13-41
+72            android:exported="true" >
+72-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:57:13-36
+73            <intent-filter>
+73-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:22:13-26:29
+74                <action android:name="android.intent.action.MAIN" />
+74-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:23:17-69
+74-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:23:25-66
+75
+76                <category android:name="android.intent.category.LAUNCHER" />
+76-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:25:17-77
+76-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:25:27-74
+77            </intent-filter>
+78        </activity>
+79        <activity
+79-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:64:9-71:20
+80            android:name="com.example.registerlogindemo.LangueActivity"
+80-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:65:13-43
+81            android:exported="true" >
+81-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:66:13-36
+82            <intent-filter>
+82-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:22:13-26:29
+83                <action android:name="android.intent.action.MAIN" />
+83-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:23:17-69
+83-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:23:25-66
+84
+85                <category android:name="android.intent.category.LAUNCHER" />
+85-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:25:17-77
+85-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:25:27-74
+86            </intent-filter>
+87        </activity>
+88        <activity
+88-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:72:9-79:20
+89            android:name="com.example.registerlogindemo.SecurityPrivacyActivity"
+89-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:73:13-52
+90            android:exported="true" >
+90-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:74:13-36
+91            <intent-filter>
+91-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:22:13-26:29
+92                <action android:name="android.intent.action.MAIN" />
+92-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:23:17-69
+92-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:23:25-66
+93
+94                <category android:name="android.intent.category.LAUNCHER" />
+94-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:25:17-77
+94-->C:\Users\Marwan\RegisterLoginDemo\app\src\main\AndroidManifest.xml:25:27-74
+95            </intent-filter>
+96        </activity>
+97
+98        <provider
+98-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\ea260942d8acadff20549e4d8b1553b4\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+99            android:name="androidx.startup.InitializationProvider"
+99-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\ea260942d8acadff20549e4d8b1553b4\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+100            android:authorities="com.example.registerlogindemo.androidx-startup"
+100-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\ea260942d8acadff20549e4d8b1553b4\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+101            android:exported="false" >
+101-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\ea260942d8acadff20549e4d8b1553b4\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+102            <meta-data
+102-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\ea260942d8acadff20549e4d8b1553b4\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+103                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+103-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\ea260942d8acadff20549e4d8b1553b4\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+104                android:value="androidx.startup" />
+104-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\ea260942d8acadff20549e4d8b1553b4\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+105            <meta-data
+105-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\403bd8edbd7910fede9aa3ea0e2075e4\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+106                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+106-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\403bd8edbd7910fede9aa3ea0e2075e4\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+107                android:value="androidx.startup" />
+107-->[androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\403bd8edbd7910fede9aa3ea0e2075e4\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+108            <meta-data
+108-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+109                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+110                android:value="androidx.startup" />
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+111        </provider>
+112
+113        <uses-library
+113-->[androidx.window:window:1.0.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\1db45d4d4feb9f83e98878577f9bddd6\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+114            android:name="androidx.window.extensions"
+114-->[androidx.window:window:1.0.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\1db45d4d4feb9f83e98878577f9bddd6\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+115            android:required="false" />
+115-->[androidx.window:window:1.0.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\1db45d4d4feb9f83e98878577f9bddd6\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+116        <uses-library
+116-->[androidx.window:window:1.0.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\1db45d4d4feb9f83e98878577f9bddd6\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+117            android:name="androidx.window.sidecar"
+117-->[androidx.window:window:1.0.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\1db45d4d4feb9f83e98878577f9bddd6\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+118            android:required="false" />
+118-->[androidx.window:window:1.0.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\1db45d4d4feb9f83e98878577f9bddd6\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+119
+120        <receiver
+120-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+121            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+121-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+122            android:directBootAware="false"
+122-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+123            android:enabled="true"
+123-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+124            android:exported="true"
+124-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+125            android:permission="android.permission.DUMP" >
+125-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+126            <intent-filter>
+126-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+127                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+127-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+127-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+128            </intent-filter>
+129            <intent-filter>
+129-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+130                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+130-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+130-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+131            </intent-filter>
+132            <intent-filter>
+132-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+133                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+133-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+133-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+134            </intent-filter>
+135            <intent-filter>
+135-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+136                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+136-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+136-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Marwan\.gradle\gradle-8.1\caches\transforms-3\6aebe797d2fce5c8727f4e04e3cbbf9a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+137            </intent-filter>
+138        </receiver>
+139    </application>
+140
+141</manifest>
