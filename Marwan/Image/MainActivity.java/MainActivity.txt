@@ -1,0 +1,1 @@
+Ceci est la connexion à l'application après avoir saisi les informations dans l'inscription (Register.java)

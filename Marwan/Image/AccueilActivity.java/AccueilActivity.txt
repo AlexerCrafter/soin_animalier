@@ -1,0 +1,1 @@
+Ceci est l'accueil de mon application avec le bouton (Voir la fiche médical) qui déclenche l'appareil photo
