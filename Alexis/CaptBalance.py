@@ -3,6 +3,8 @@ import time
 import sys
 import RPi.GPIO as GPIO
 from hx711 import HX711
+import mysql.connector
+import SauvPoids # On import le fichier SauvPoids.py
 
 # Définition de la fonction qui permet de quitter le programme
 def cleanAndExit():
@@ -35,5 +37,8 @@ while True:
     hx.power_down() # Met le module en "Low Power Mode"
     hx.power_up() # Met le module en "High Power Mode"
     time.sleep(0.1) # Attente de 0.1 seconde avant de recommencer
+
+    SauvPoids.connexion() # Ici on appel la fonction "connexion" du fichier "SauvPoids.py"
+  
   except(KeyInterrupt, SystemExit):
     cleanAndExit() # Appel de la fonction pour sortir du programmme
