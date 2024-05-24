@@ -1,6 +1,6 @@
 # Projet : Suivi vétérinaire d’animaux domestiques
 
-### I) Présentation du projet
+## I) Présentation du projet
 * Le groupement des vétérinaires de la ville d’Argenteuil souhaite mettre en place une solution de suivi animalier pour les animaux domestiques qu’ils accueillent.
 * En effet, les animaux qui arrivent à la clinique vétérinaire sont là pour des soins. Les vétérinaires souhaitent donc avoir une application qui leur permette
   à la fois d’avoir un suivi médical des animaux, mais aussi, pour ceux qui sont hébergés quelques temps après une intervention, un suivi de la fréquence et de la quantité d’alimentation.
@@ -13,7 +13,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### II) Expression du besoin
+## II) Expression du besoin
 * Le système devra répondre aux besoins suivants :
 * Paramétrage des différents seuils (quantité maximale de repas possible).
 * Prise en photo des animaux pour la création de fiches de suivi.
@@ -23,7 +23,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### III) Cahier des charges
+## III) Cahier des charges
 * Le système sera constitué de :
     * Gamelles à ouverture automatique déclenchées par une puce RFID.
     * Balance connectée permettant de remonter les mesures vers un système centralisé.
@@ -38,6 +38,26 @@
     * D’afficher le suivi médical (traitements déjà pris, allergies connues, vaccins reçus, …).
     * D’alerter pour la prise de traitements.
     * Pour l’application mobile, la possibilité de lire un QRCode pour accéder rapidement à la fiche de l’animal.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Une liste de matériels et de logiciels nous sont mis à disposition
+### Matériels
+* Gamelle à ouverture commandée par RFID
+* Badges RFID
+* Camera USB
+* Balance connectée pour animaux
+* Raspberry Pi modèle 3
+
+### Logiciels
+* Contrôle du GPIO, SPI, I2C, Liaison Série | Librairie WiringPi : http://wiringpi.com/
+* Base de données : [MySQL] (https://www.mysql.com/fr)
+* Gestion de base de données  [PhpMyAdmin] (https://www.phpmyadmin.net/)
+* [Dragino] (www.dragino.com/downloads/index.php?dir=LoRa_Gateway/) | Le github de [Dragino] (https://github.com/dragino/Arduino-Profile-Examples/tree/master/libraries/Dragino/examples)
+* Module communicant Grove LoRa 113060006 émetteur/récepteur : [Librairie Arduino] (http://wiki.seeedstudio.com/Grove_LoRa_Radio/)
+* Module communicant Arduino mkr wan1300 [Librairies MKRWAN] (https://www.arduinolibraries.info/libraries/mkrwan)
+* Arduino MKR basé sur un TJA1048T/3 [Librairies MKRshield485] (https://store.arduino.cc/arduino-genuino/arduino-genuino-mkr-family)
+* [Solar Station Monitor] (http://www.epsolarpv.com/en/index.php/Technical/download)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
