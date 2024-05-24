@@ -1,0 +1,44 @@
+
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+    text-align: left;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #f2f2f2;
+}
+
+
+table img {
+    width: 80px;
+    height: auto;
+    display: block;
+    margin: 0 auto; 
+}
+
+
+.delete-link {
+    color: #f44336;
+    text-decoration: none;
+}
+
+.delete-link:hover {
+    text-decoration: underline;
+}
