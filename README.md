@@ -51,13 +51,13 @@
 
 ### Logiciels
 * Contrôle du GPIO, SPI, I2C, Liaison Série | Librairie WiringPi : http://wiringpi.com/
-* Base de données : [MySQL] (https://www.mysql.com/fr)
-* Gestion de base de données  [PhpMyAdmin] (https://www.phpmyadmin.net/)
-* [Dragino] (www.dragino.com/downloads/index.php?dir=LoRa_Gateway/) | Le github de [Dragino] (https://github.com/dragino/Arduino-Profile-Examples/tree/master/libraries/Dragino/examples)
-* Module communicant Grove LoRa 113060006 émetteur/récepteur : [Librairie Arduino] (http://wiki.seeedstudio.com/Grove_LoRa_Radio/)
-* Module communicant Arduino mkr wan1300 [Librairies MKRWAN] (https://www.arduinolibraries.info/libraries/mkrwan)
-* Arduino MKR basé sur un TJA1048T/3 [Librairies MKRshield485] (https://store.arduino.cc/arduino-genuino/arduino-genuino-mkr-family)
-* [Solar Station Monitor] (http://www.epsolarpv.com/en/index.php/Technical/download)
+* Base de données : [MySQL](https://www.mysql.com/fr)
+* Gestion de base de données  [PhpMyAdmin](https://www.phpmyadmin.net/)
+* [Dragino](www.dragino.com/downloads/index.php?dir=LoRa_Gateway/) | Le github de [Dragino](https://github.com/dragino/Arduino-Profile-Examples/tree/master/libraries/Dragino/examples)
+* Module communicant Grove LoRa 113060006 émetteur/récepteur : [Librairie Arduino](http://wiki.seeedstudio.com/Grove_LoRa_Radio/)
+* Module communicant Arduino mkr wan1300 [Librairies MKRWAN](https://www.arduinolibraries.info/libraries/mkrwan)
+* Arduino MKR basé sur un TJA1048T/3 [Librairies MKRshield485](https://store.arduino.cc/arduino-genuino/arduino-genuino-mkr-family)
+* [Solar Station Monitor](http://www.epsolarpv.com/en/index.php/Technical/download)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
