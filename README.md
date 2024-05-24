@@ -25,19 +25,19 @@
 
 ### III) Cahier des charges
 * Le système sera constitué de :
-    `* Gamelles à ouverture automatique déclenchées par une puce RFID.`
-    `* Balance connectée permettant de remonter les mesures vers un système centralisé.`
-    `* Une caméra permettant de prendre en photo les animaux lors de la création de la fiche.`
-    `* L’utilisation de la caméra du smartphone pour scanner le QR Code permettant l’accès rapide à la fiche de l’animal.`
+    * Gamelles à ouverture automatique déclenchées par une puce RFID.
+    * Balance connectée permettant de remonter les mesures vers un système centralisé.
+    * Une caméra permettant de prendre en photo les animaux lors de la création de la fiche.
+    * L’utilisation de la caméra du smartphone pour scanner le QR Code permettant l’accès rapide à la fiche de l’animal.
 * Toutes les données seront stockées sur une base de données et seront accessible aussi bien via l’interface web que par l’application mobile.
 * L’application disponible via l’interface web ou l’application mobile doit permettre :
-    `* De créer une fiche pour chaque animal avec la possibilité de prise de photo.`
-    `* De fixer des seuils pour la fréquence des repas.`
-    `* D’afficher le suivi de la fréquence et de la quantité (poids de nourriture mangé) des repas.`
-    `* D’afficher le suivi du poids sous forme de courbes.`
-    `* D’afficher le suivi médical (traitements déjà pris, allergies connues, vaccins reçus, …).`
-    `* D’alerter pour la prise de traitements.`
-    `* Pour l’application mobile, la possibilité de lire un QRCode pour accéder rapidement à la fiche de l’animal.`
+    * De créer une fiche pour chaque animal avec la possibilité de prise de photo.
+    * De fixer des seuils pour la fréquence des repas.
+    * D’afficher le suivi de la fréquence et de la quantité (poids de nourriture mangé) des repas.
+    * D’afficher le suivi du poids sous forme de courbes.
+    * D’afficher le suivi médical (traitements déjà pris, allergies connues, vaccins reçus, …).
+    * D’alerter pour la prise de traitements.
+    * Pour l’application mobile, la possibilité de lire un QRCode pour accéder rapidement à la fiche de l’animal.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
