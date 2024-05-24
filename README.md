@@ -40,4 +40,7 @@
     • Pour l’application mobile, la possibilité de lire un QRCode pour accéder rapidement à la fiche de l’animal.
 
 
+
   Ce projet est réparti entre 4 étudiants : __Alberto__, __Alexis__, __Marwan__ et __Leonardo__ qui auront tous différentes tâches.
+  Date de début du projet : > 26/01/2024
+  Date de fin du projet : > 25/05/2024
