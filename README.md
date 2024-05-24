@@ -63,5 +63,5 @@
 
 > * Ce projet est réparti et réalisé entre 4 étudiants : __Alberto__, __Alexis__, __Marwan__ et __Leonardo__ qui auront tous différentes tâches.
 > * Date de début du projet : 26/01/2024
-> * Date de rendu du rapport de projet : 20/05/2024
+> * Date de rendu du rapport de projet : 24/05/2024
 > * Date de fin du projet : 07/06/2024
