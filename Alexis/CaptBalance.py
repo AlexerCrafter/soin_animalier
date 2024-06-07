@@ -16,7 +16,7 @@ def cleanAndExit():
 hx = HX711(5, 6)
 
 # Définition du referenceUnit (unité de référence)
-referenceUnit = 1
+referenceUnit = 1795
 hx.set_reference_unit(referenceUnit)
 
 # On réinitialise les données précédentes
